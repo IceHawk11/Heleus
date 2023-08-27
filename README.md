@@ -1,1 +1,1 @@
-# Heleus_2
+Location Based Garbage Management System for Smart City
