@@ -1,0 +1,129 @@
+*Location Based Garbage Management System for Smart City*
+
+Abstract 
+ Smart cities integrate multiple mobile or websolutions to build a comfortable human habitation. One of these solutions is to provide an environmentally friendly, efficient and effective garbage management system. The current garbage collection system includes routine garbage trucks doing roundsdaily or weekly, which not only doesn't cover every zone of the city but its completely inefficient use of government resources. The proposed system, where admin  manage the garbage app for full online based mointoring and analyze the system. Her admin handle bins, driver, complaints from user and work report from driver. This paper proposes a cost-effective mobile or web based system for the government to utilize available resources to efficiently manage the over whelming amounts of garbage collected each day, while also providing a better solution for the inconvenience of garbage disposal for the citizens. This is done by a driver, app will provide predictive and guide routes generated through for garbage trucks. Then driver update the status of work done will be  data collected. An android or web app is developed for the work force and the citizens, which primarily provides the user create complatints  available smart bin.
+
+Existing System
+
+Employees heading for their workstations every morning.For all those people, there are just not enough garbage bins available. On the streets of urban cities, hundreds of people are passing the same location around one minute.
+
+The obvious solution to this is for the cleaning staff to staynear garbage bins every day till they fill up to clean them. Thisis not a real solution.
+
+There are some notable negative effects when consideringthe garbage bins always being full. One of the main effects is thesurrounding area starting to smell and be very unpleasant. When
+the garbage bins are full people put their trash on sides of thegarbage bins.
+
+Disadvantage
+•	Time consuming and less effective: trucks go and empty containers whether theyare full or not.
+•	High costs.
+•	Unhygienic Environment and look of the city.
+•	Bad smell spreads and may cause illness to human beings.
+•	More traffic and Noise
+
+
+
+
+PROPOSED System 	
+
+•	The proposed system overview for this system. Solid waste management can be broadly categorized as segregation, collection, and transportation.
+
+•	The server will collect the data and store them only a database. This data will be analyzed and displayed on two different dashboards that can be accessed by the workforce and clients.
+
+•	Using data analytics, reports will be generated which can be monitored by the admins through the admin dashboard. 
+
+•	Based on the data collected, garbage trucks can be given routes generated through various algorithms and google maps API to efficiently route through all necessary garbage bins and finally reach the dumping site 
+
+Advantages
+•	Real time information on the fill level of the dustbin.
+•	Deployment of dustbin based on the actual needs.
+•	Cost Reduction and resource optimization.
+•	Improves Environment quality 
+•	Fewer smells
+•	Cleaner cities
+•	Intelligent management of the services in the city.
+•	Effective  usage of dustbins.
+
+
+ 
+Software Requirements: -
+Front End: HTML5, CSS3, Bootstrap
+Back End: PHP, MYSQL
+Control End: Angular Java Script
+Android Tools:
+    IDE: android Studio
+    Android Emulator
+    xampp-win32-5.5.19-0-VC11
+	
+PHP Tools:
+    xampp-win32-5.5.19-0-VC11
+
+Hardware Requirements:
+Processor                 :   Intel 3
+Installed memory (RAM)    :   4 GB
+Hard Disk                 :   500 GB
+Operating System          :   Windows 7,8,10 - 64 bit  
+System Modules:
+Administrator
+•	Login 
+•	Create Garbage bin
+•	Update/Delete garbage bin
+•	Assign best route for drivers
+•	Manage driver
+•	View Garbage Report 
+•	View complaints from public 
+
+General Public
+•	Register 
+•	Login
+•	Register complaint 
+•	My complaint & status
+
+Driver
+•	Login
+•	Check daily work updates 
+•	Choose best route 
+•	Update garbage load
+
+MODULE DESCRIPTION
+Administrator
+•	Login 
+The main activities in the application are the admin login page for admin. The other modules are followed by this login page. This module records only admin and password of the admin. 
+•	Create Garbage bin
+Admin can create a garbage bin for different areas. Which be used of wasted collections from the areas then trucks can contain the garbage bin.
+
+•	Update/Delete garbage bin
+Admin will be update the new garbage bin or else modified garbage bin and also deleted the broke garbage bin, not used garbage bin.
+•	Assign best route for drivers
+Admin can be assigning the drivers for the garbage collections. It is based best routre driver will be assigned for garbage collections.
+•	Manage driver
+Admin can be manage the all drivers and maintain best route drivers.
+•	View Garbage Report 
+Admin can be view the garbage reports from the all areas and maintain the whole reports.
+•	View complaints from public 
+Admin can be view the complaints from the public. Then, the admin will retify the complaints.
+General Public
+•	Register 
+Public  has to register their basic details to get access with this application service.
+•	  Login
+Once they have registered they need to login to avail the service at the needy time.
+•	Register complaint 
+A public can be arising the compliant for garbage container of our locality is overflowing due to non-cleaning for many days. The rotten waste materials emanating bad smell thus making the people of the nearby area to wear a scarf around their nose.
+•	My complaint & status
+A public can be view the compliant and check the status for complaints.
+Driver
+•	Login
+The main activities in the application are the driver login page for driver. The other modules are followed by this login page. This module records only driver and password of the driver.
+•	 Check daily work updates 
+A driver will check the daily work updates and then, the driver relocate for the garbage collections.
+•	Choose best route 
+A driver will choose the best route of corresponding areas. Then driver can choose the shortest root of areas.
+•	Update garbage load
+A driver will update the garbage load of container. How much will contain from per day. It will update to the admin.
+
+
+
+
+
+
+
+
+
